@@ -30,14 +30,14 @@ export default function ContactPage() {
     <main>
       <Navbar />
 
-      <section className="pt-24 pb-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-primary-50 to-white">
+      <section className="pt-24 pb-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-primary-100 to-white">
         <div className="max-w-7xl mx-auto">
           <div className="text-center max-w-3xl mx-auto mb-16">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-              Let&apos;s Talk
+              Get Started
             </h1>
             <p className="text-xl text-gray-600">
-              Ready to transform your restaurant? Get in touch and we&apos;ll help you get started.
+              Ready to transform your restaurant? Fill out the form below and we&apos;ll set you up with a free trial.
             </p>
           </div>
 

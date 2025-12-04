@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { Menu, X, QrCode } from "lucide-react";
+import { Menu, X } from "lucide-react";
+import Image from "next/image";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -9,13 +10,18 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 left-0 right-0 bg-white/80 backdrop-blur-md z-50 border-b border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16">
+        <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-primary-500 rounded-lg flex items-center justify-center">
-              <QrCode className="w-5 h-5 text-white" />
+          <div className="flex items-center gap-3">
+            <div className="relative w-12 h-12">
+              <Image
+                src="/logo.png"
+                alt="Ordr Logo"
+                fill
+                className="object-contain"
+              />
             </div>
-            <span className="text-xl font-bold text-gray-900">Restaurant OS</span>
+            <span className="text-2xl font-bold text-gray-900 tracking-tight">Ordr</span>
           </div>
 
           {/* Desktop Menu */}

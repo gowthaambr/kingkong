@@ -119,7 +119,7 @@ Month 7: Beta Launch
 - [x] Setup PostgreSQL locally
 - [x] Create database schema (restaurants, users tables)
 - [x] Setup Express.js project structure
-- [ ] Configure environment variables
+- [x] Configure environment variables
 
 **Person C (Admin Frontend):**
 - [ ] Setup React + Vite project (admin)

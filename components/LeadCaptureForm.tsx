@@ -56,7 +56,7 @@ export default function LeadCaptureForm() {
   }
 
   return (
-    <section id="demo" className="py-20 px-4 sm:px-6 lg:px-8 bg-primary-50">
+    <section id="demo" className="py-20 px-4 sm:px-6 lg:px-8 bg-primary-100">
       <div className="max-w-4xl mx-auto">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           {/* Left - Content */}

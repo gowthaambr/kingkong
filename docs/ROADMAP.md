@@ -115,7 +115,7 @@ Month 7: Beta Launch
 - [ ] Create user flow diagrams
 
 **Person B (Backend Lead):**
-- [x] Setup GitHub repo + branch strategy
+- [ ] Setup GitHub repo + branch strategy
 - [ ] Setup PostgreSQL locally
 - [ ] Create database schema (restaurants, users tables)
 - [ ] Setup Express.js project structure

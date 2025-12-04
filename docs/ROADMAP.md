@@ -26,11 +26,11 @@
 
 | Person | Primary Role | Secondary Responsibilities |
 |--------|-------------|---------------------------|
-| **Person A** | Product Lead + UI/UX | User testing, docs writing, customer research |
-| **Person B** | Backend Lead | API design, database, deployment |
-| **Person C** | Admin Frontend Lead | Admin dashboard, state management |
-| **Person D** | Customer Frontend Lead | QR ordering app, marketing site |
-| **Person E** | Full-Stack Support | Bug fixes, testing, DevOps, integration |
+| **Person A** | Product Lead + UI/UX | User testing, docs writing, customer research | - nahush
+| **Person B** | Backend Lead | API design, database, deployment | - Laasya
+| **Person C** | Admin Frontend Lead | Admin dashboard, state management | - adit
+| **Person D** | Customer Frontend Lead | QR ordering app, marketing site | - likith
+| **Person E** | Full-Stack Support | Bug fixes, testing, DevOps, integration | - Gautam
 
 ### 1.2 Working Agreements
 
@@ -108,14 +108,14 @@ Month 7: Beta Launch
 #### Week 1: Environment Setup
 
 **Person A (Product Lead):**
-- [ ] Create Figma workspace
-- [ ] Design wireframes for login/register
+- [x] Create Figma workspace
+- [x] Design wireframes for login/register
 - [ ] Define brand colors, fonts, logo
 - [ ] Write copy for onboarding screens
 - [ ] Create user flow diagrams
 
 **Person B (Backend Lead):**
-- [ ] Setup GitHub repo + branch strategy
+- [x] Setup GitHub repo + branch strategy
 - [ ] Setup PostgreSQL locally
 - [ ] Create database schema (restaurants, users tables)
 - [ ] Setup Express.js project structure

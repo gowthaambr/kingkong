@@ -115,11 +115,11 @@ Month 7: Beta Launch
 - [ ] Create user flow diagrams
 
 **Person B (Backend Lead):**
-- [ ] Setup GitHub repo + branch strategy
-- [ ] Setup PostgreSQL locally
-- [ ] Create database schema (restaurants, users tables)
-- [ ] Setup Express.js project structure
-- [ ] Configure environment variables
+- [x] Setup GitHub repo + branch strategy
+- [x] Setup PostgreSQL locally
+- [x] Create database schema (restaurants, users tables)
+- [x] Setup Express.js project structure
+- [x] Configure environment variables
 
 **Person C (Admin Frontend):**
 - [ ] Setup React + Vite project (admin)

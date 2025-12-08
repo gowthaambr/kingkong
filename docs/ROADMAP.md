@@ -110,7 +110,7 @@ Month 7: Beta Launch
 **Person A (Product Lead):**
 - [x] Create Figma workspace
 - [x] Design wireframes for login/register
-- [ ] Define brand colors, fonts, logo
+- [x] Define brand colors, fonts, logo
 - [ ] Write copy for onboarding screens
 - [ ] Create user flow diagrams
 
@@ -122,14 +122,14 @@ Month 7: Beta Launch
 - [x] Configure environment variables
 
 **Person C (Admin Frontend):**
-- [ ] Setup React + Vite project (admin)
-- [ ] Install dependencies (React Router, TailwindCSS, React Query)
+- [x] Setup React + Vite project (admin)
+- [x] Install dependencies (React Router, TailwindCSS, React Query)
 - [ ] Setup folder structure
 - [ ] Create base layout components (Header, Sidebar)
 
 **Person D (Customer Frontend):**
-- [ ] Setup React + Vite project (customer)
-- [ ] Install dependencies
+- [x] Setup React + Vite project (customer)
+- [x] Install depenxdencies
 - [ ] Setup folder structure
 - [ ] Create mobile-first base layout
 

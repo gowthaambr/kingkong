@@ -118,7 +118,7 @@ Month 7: Beta Launch
 - [x] Setup GitHub repo + branch strategy
 - [x] Setup PostgreSQL locally
 - [x] Create database schema (restaurants, users tables)
-- [ ] Setup Express.js project structure
+- [x] Setup Express.js project structure
 - [ ] Configure environment variables
 
 **Person C (Admin Frontend):**
